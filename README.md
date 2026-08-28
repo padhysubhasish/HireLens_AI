@@ -1,4 +1,4 @@
-# TalentLens AI
+# HireLens_AI
 
 **Screen smarter. Hire with confidence.**
 
@@ -33,7 +33,7 @@ recommendation — backed by a real Postgres-stored screening history.
 
 ## Project Overview
 
-TalentLens AI lets a recruiter register, log in, upload a resume, paste a job
+HireLens_aI lets a recruiter register, log in, upload a resume, paste a job
 description, and run an AI-powered screening. The result is validated,
 structured JSON — not free text — covering category scores, per-skill
 evidence, strengths, gaps, and a recommendation. Every screening is saved to
