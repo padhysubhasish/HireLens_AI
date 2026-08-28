@@ -1,0 +1,33 @@
+Full-Stack AI Developer
+
+We are looking for a Full-Stack AI Developer to build and maintain AI-powered web applications.
+
+Requirements:
+
+- Strong Python programming skills
+- Experience with FastAPI or Flask
+- Strong React and JavaScript knowledge
+- PostgreSQL experience
+- REST API development
+- Experience integrating OpenAI, Gemini, or other LLM APIs
+- Understanding of AI/ML concepts
+- Docker experience
+- Git and GitHub
+- Experience building production web applications
+
+Preferred:
+
+- AWS or Azure experience
+- Kubernetes knowledge
+- CI/CD experience
+- 3+ years of software development experience
+
+Responsibilities:
+
+- Build full-stack web applications.
+- Design and implement REST APIs.
+- Integrate LLM APIs.
+- Work with PostgreSQL databases.
+- Develop responsive React interfaces.
+- Deploy and maintain applications.
+- Collaborate with engineering teams.
