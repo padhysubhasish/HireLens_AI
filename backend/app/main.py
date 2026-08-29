@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 settings = get_settings()
 
 app = FastAPI(
-    title="TalentLens AI",
+    title="Hirelens_AI",
     description="Screen smarter. Hire with confidence.",
     version="1.0.0",
 )
